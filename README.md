@@ -344,17 +344,22 @@ git push -u origin main
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Matplotlib Guide](https://matplotlib.org/)
 
-### Learning Platforms
-- [Real Python](https://realpython.com)
-- [Codecademy](https://codecademy.com)
-- [DataCamp](https://datacamp.com)
-- [Coursera](https://coursera.org)
 
-### Practice & Community
-- [LeetCode](https://leetcode.com)
-- [HackerRank](https://hackerrank.com)
-- [Stack Overflow](https://stackoverflow.com)
-- [Reddit r/learnprogramming](https://reddit.com/r/learnprogramming)
+### 🎓 Learning Platforms (Free)
+- **YouTube** – Free Python tutorials and full beginner-to-advanced courses  
+- **freeCodeCamp** – https://www.freecodecamp.org  
+- **Real Python (Free Articles)** – https://realpython.com  
+- **Kaggle Learn** – https://www.kaggle.com/learn  
+- **Google Colab** – Run Python and Jupyter notebooks online (no installation required)
+
+---
+
+### 💻 Practice & Community (Free)
+- **LeetCode (Free Problems)** – https://leetcode.com  
+- **HackerRank** – https://www.hackerrank.com  
+- **Kaggle** – https://www.kaggle.com (datasets, notebooks, competitions)  
+- **Stack Overflow** – https://stackoverflow.com  
+- **Reddit – r/learnprogramming** – https://www.reddit.com/r/learnprogramming 
 
 ---
 
