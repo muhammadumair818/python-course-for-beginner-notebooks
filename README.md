@@ -9,6 +9,32 @@ A comprehensive, self-paced Python programming course with structured modules, h
 
 ---
 
+## ⚡ Quick Start (5 Minutes)
+
+### Get Started Immediately:
+
+**For Beginners (Recommended):**
+```bash
+cd 01-Basics
+python 01_variables.py
+```
+
+**For Intermediate Learners:**
+```bash
+cd 02-Control-Flow
+python 01_if_elif_else.py
+```
+
+**Try a Project:**
+```bash
+cd 09-Projects/01-Number-Guessing-Game
+python game.py
+```
+
+👉 **Want more help?** Check the course README in each folder or scroll down for detailed learning paths.
+
+---
+
 ## 📚 Course Structure
 
 ### **01-Basics** - Python Fundamentals
