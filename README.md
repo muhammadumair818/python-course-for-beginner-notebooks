@@ -8,6 +8,7 @@
 A comprehensive, self-paced Python programming course with structured modules, hands-on exercises, and real-world projects. Perfect for beginners building a strong portfolio for internships and entry-level positions.
 
 ---
+...
 
 ## ⚡ Quick Start (5 Minutes)
 
@@ -116,6 +117,7 @@ Write modular, reusable, and well-organized code using functions.
 **Estimated Time:** 4-6 hours | **Difficulty:** ⭐⭐
 
 ---
+...
 
 ### **05-Modules-Libraries** - Using Python's Ecosystem
 Leverage Python's built-in and popular third-party libraries.
@@ -131,7 +133,7 @@ Leverage Python's built-in and popular third-party libraries.
 - `02_pandas_numpy.py` - Data manipulation with NumPy and Pandas
 
 **Estimated Time:** 3-5 hours | **Difficulty:** ⭐⭐⭐
-
+....
 ---
 
 ### **06-File-Handling** - Working with Files
